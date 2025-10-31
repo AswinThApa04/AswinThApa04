@@ -52,7 +52,7 @@ It helps me stay consistent and track my growth as a developer.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinThApa04&layout=compact&theme=default)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AswinThApa04&theme=default)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AswinThApa04&theme=dark&border_radius=4.8)](https://git.io/streak-stats)
 
 ---
 
